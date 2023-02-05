@@ -1,4 +1,4 @@
-bedrock_numeric_identifier,java_numeric_identifier,java_string_identifier
+bedrock_numeric_identifier,java_string_identifier,java_numeric_identifier
 0,minecraft:protection,0
 1,minecraft:fire_protection,1
 2,minecraft:feather_falling,2
