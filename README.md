@@ -1,6 +1,6 @@
 # mc_migration_tool_resources
 
-Bedrock版のワールドデータをJava版のワールドに変換するためのマッピングデータベースです。
+Bedrock版のワールドデータをJava版のワールドに変換するためのマッピングデータベース
 
 ## データの取得元
 
