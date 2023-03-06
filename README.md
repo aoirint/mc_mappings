@@ -4,12 +4,10 @@ This repository uses these data sources.
 
 ## GeyserMC mappings-generator
 
-- Licenser: GeyserMC
-- License: MIT License
+- License: MIT License by GeyserMC
 - URL: <https://github.com/GeyserMC/mappings-generator>
 
 ## GeyserMC mappings
 
-- Licenser: GeyserMC
-- License: MIT License
+- License: MIT License by GeyserMC
 - URL: <https://github.com/GeyserMC/mappings>
